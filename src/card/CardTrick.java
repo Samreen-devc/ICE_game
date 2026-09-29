@@ -49,7 +49,7 @@ public class CardTrick {
             }
         }
         else{
-            System.out.println("Your card is not in the magic hand");
+            System.out.println("Your card is not in the magic hand. Sorry");
             break;
             }
         
